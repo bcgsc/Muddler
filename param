@@ -1,0 +1,7 @@
+Copy Number: 0,1,2
+Copy Weights: 1,1,1
+Inversion Weights: 1,1
+Internal Breaks: 2,1,1
+Internal Rearrangement Weights: 1,1,1
+Internal Inversion Alt Weights: 2,1,1,1,1,4
+Internal Duplication Alt Weights: 2,1,1,1,1
