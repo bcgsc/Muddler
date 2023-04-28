@@ -31,6 +31,10 @@ For installing muddler
 `git clone https://github.com/bcgsc/Muddler.git`
 
 # Usage
--example commands, parameter details
+Basic run command:
+
+`python muddler_1.0.py --ref hg38.fa --out muddled_1 --chrome hg38chrom.bed --gaps hg38gaps.bed --frag hg38frag.bed --param param`
+
+Paramater Info:
 # Example usage with other simulators
 -link to a wiki page with more details
